@@ -1,7 +1,7 @@
 {
-  "name": "rishav-chanda-portfolio",
+  "name": "deepak-patidar-portfolio",
   "version": "0.1.0",
-  "homepage": "https://rishavchanda.github.io",
+  "homepage": "https://github.com/Patidardeepak1/personal-portfolio/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
