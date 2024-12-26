@@ -4,6 +4,7 @@
   "homepage": "https://github.com/Patidardeepak1/personal-portfolio/",
   "private": true,
   "dependencies": {
+    "@babel/runtime": "^7.26.0",
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
@@ -19,11 +20,11 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.3.1",
     "react-router-dom": "^6.3.0",
+    "react-scripts": "latest",
     "react-scroll": "^1.8.7",
     "styled-components": "^5.3.5",
     "typewriter-effect": "^2.19.0",
-    "web-vitals": "^2.1.4",
-    "react-scripts": "latest" 
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -48,8 +49,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-  
   }
 }
