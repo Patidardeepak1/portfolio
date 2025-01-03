@@ -1,7 +1,7 @@
 {
   "name": "deepak-patidar-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/Patidardeepak1/portfolio/",
+  "homepage": "https://Patidardeepak1.github.io/portfolio/",
   "private": true,
   "dependencies": {
     "@babel/runtime": "^7.26.0",
